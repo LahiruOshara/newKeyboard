@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481180844070",
+    "firebase_url": "https://brightkeys-80bc7.firebaseio.com",
+    "project_id": "brightkeys-80bc7",
+    "storage_bucket": "brightkeys-80bc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481180844070:android:24d5df7aad7b9349",
+        "android_client_info": {
+          "package_name": "com.example.newkeyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481180844070-1bm1tdfkckup6v5reprm6vl0s1sou261.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnaJaKaivFcSNyYwxcdzBr-JloSNG4v30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481180844070-1bm1tdfkckup6v5reprm6vl0s1sou261.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

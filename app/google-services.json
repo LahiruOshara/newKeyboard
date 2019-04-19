@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "17620667466",
+    "firebase_url": "https://newkeyboard-3e407.firebaseio.com",
+    "project_id": "newkeyboard-3e407",
+    "storage_bucket": "newkeyboard-3e407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17620667466:android:24d5df7aad7b9349",
+        "android_client_info": {
+          "package_name": "com.example.newkeyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17620667466-qo7npufs11gqn3g5jcjsivc1ebgac3gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newkeyboard",
+            "certificate_hash": "976ffc97b3d7dc67c57944b397a7b7b581ef17f0"
+          }
+        },
+        {
+          "client_id": "17620667466-4j7lol68c8i0s8f1fa0p5g61oe0h66qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQBPsECyU6vmYsUkISvtKdN_P3Pg4yTvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17620667466-4j7lol68c8i0s8f1fa0p5g61oe0h66qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
